@@ -1,0 +1,11 @@
+title: Service offering catalog
+description: Microsoft infrastructure, identity security, datacenter modernization, application hosting, and PowerShell automation.
+theme: jekyll-theme-minimal
+markdown: kramdown
+show_downloads: false
+
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: default
