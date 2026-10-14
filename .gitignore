@@ -11,7 +11,7 @@ vendor/bundle/
 Thumbs.db
 
 # because public
-/.agents/
-/archive/
-/content-source/
-/planning/
+.agents/
+archive/
+content-source/
+planning/
