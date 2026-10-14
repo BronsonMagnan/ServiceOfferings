@@ -1,5 +1,10 @@
 title: Service offering catalog
-description: Microsoft infrastructure, identity security, datacenter modernization, application hosting, and PowerShell automation.
+description: >-
+  Microsoft Enterprise Infrastructure<br>
+  Identity &amp; Access Management<br>
+  Datacenter Modernization<br>
+  Hosted Application &amp; Desktop Delivery<br>
+  Advanced PowerShell Automations
 theme: jekyll-theme-minimal
 markdown: kramdown
 show_downloads: false
